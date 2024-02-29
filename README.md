@@ -1,5 +1,5 @@
 <p align="center">
- ![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFtaXF3b2g2Mnk4bmxhamMydGU1cW13ZXU3cjZncmw1eDZtMmRlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/in5XLohYU4tHugbMlT/giphy.gif)
+ <img alt="Game Development Department" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFtaXF3b2g2Mnk4bmxhamMydGU1cW13ZXU3cjZncmw1eDZtMmRlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/in5XLohYU4tHugbMlT/giphy.gif">
 </p>
 
 
