@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/view/koseki-bijou-koseki-bijou-古石ビジュー-hololive-gif-6673317212895370913" width="300" height="300" />
+  <img src="https://tenor.com/view/koseki-bijou-koseki-bijou-古石ビジュー-hololive-gif-6673317212895370913"/>
 </p>
 
 
