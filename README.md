@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://tenor.com/view/koseki-bijou-koseki-bijou-古石ビジュー-hololive-gif-6673317212895370913](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFtaXF3b2g2Mnk4bmxhamMydGU1cW13ZXU3cjZncmw1eDZtMmRlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/in5XLohYU4tHugbMlT/giphy.gif)"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHFtaXF3b2g2Mnk4bmxhamMydGU1cW13ZXU3cjZncmw1eDZtMmRlciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/in5XLohYU4tHugbMlT/giphy.gif"/>
 </p>
 
 
