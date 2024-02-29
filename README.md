@@ -46,7 +46,7 @@ After graduating with a degree in Mathematics, I decided to pursue my passion fo
 <details>
   <summary>My Socials</summary>
 <p align="left"> 
-  <a href="https://www.linkedin.com/in/raihannooriman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+  <a href="https://www.linkedin.com/in/raihan-nooriman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a> 
   <a href="https://www.github.com/raihannooriman" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
