@@ -1,6 +1,7 @@
 <p align="center">
-  <div class="tenor-gif-embed" data-postid="6673317212895370913" data-share-method="host" data-aspect-ratio="0.751004" data-width="100%"><a href="https://tenor.com/view/koseki-bijou-koseki-bijou-%E5%8F%A4%E7%9F%B3%E3%83%93%E3%82%B8%E3%83%A5%E3%83%BC-hololive-gif-6673317212895370913">Koseki Bijou 古石ビジュー GIF</a>from <a href="https://tenor.com/search/koseki+bijou-gifs">Koseki Bijou GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://tenor.com/view/koseki-bijou-koseki-bijou-古石ビジュー-hololive-gif-6673317212895370913" width="300" height="300" />
 </p>
+
 
 # Hi 👋 My name is Raihan Nooriman
 
