@@ -16,7 +16,6 @@ After graduating with a degree in Mathematics, I decided to pursue my passion fo
 - 🌍  I'm based in Indonesia
 - 🖥️  See my portfolio at [Portfolio](https://hanhub.vercel.app)
 - ✉️  You can contact me at [noorimanr@gmail.com](mailto:noorimanr@gmail.com)
-- 🧠  I'm learning **Typescript** and **Golang**
 
 </details>
 
