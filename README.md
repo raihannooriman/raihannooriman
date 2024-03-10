@@ -1,8 +1,3 @@
-<p align="center">
- <img alt="Game Development Department" src="koseki-bijou-koseki.gif">
-</p>
-
-
 # Hi 👋 My name is Raihan Nooriman
 
 ## Software Developer
