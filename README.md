@@ -1,4 +1,4 @@
-# Hi 👋 My name is Raihan Nooriman
+# Hello 👋 My name is Raihan Nooriman
 
 ## Software Developer
 
