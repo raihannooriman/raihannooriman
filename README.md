@@ -47,7 +47,7 @@ After graduating with a degree in Mathematics, I decided to pursue my passion fo
 </details>
 
 ### Statistics
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/raihannooriman/langs?compact=True&theme=classic
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/raihannooriman/langs?compact=True&theme=dark
 )](https://githubtrends.io)
 
 <a href="http://www.github.com/raihannooriman"><img src="https://github-readme-stats.vercel.app/api?username=raihannooriman&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&show_icons=true" alt="raihannooriman's GitHub stats" /></a>
