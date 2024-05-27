@@ -55,4 +55,6 @@ After graduating with a degree in Mathematics, I decided to pursue my passion fo
 
 <a href="http://www.github.com/raihannooriman"><img src="https://github-readme-streak-stats.herokuapp.com/?user=raihannooriman&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/raihannooriman/langs)](https://githubtrends.io)
+
 </details>
