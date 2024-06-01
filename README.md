@@ -4,7 +4,7 @@
 
 ### About Me
 
-After graduating with a degree in Mathematics, I decided to pursue my passion for programming. I enrolled in a coding bootcamp and learned full-stack web development. My favorite part of programming is the problem-solving aspect. I love the feeling of finally cracking a solution. I primarily use React, Next.js, Node.js, Go, Python, TypeScript, and MongoDB for my development projects, and I'm always eager to learn new technologies. Currently, I'm looking for a full-time position as a software developer.
+After graduating with a degree in Mathematics, I decided to pursue my passion for programming. I enrolled in a coding bootcamp and learned full-stack web development. My favorite part of programming is the problem-solving aspect. I love the feeling of finally cracking a solution. I primarily use React, Node.js, Go, Python, TypeScript, and MongoDB for my development projects, and I'm always eager to learn new technologies. Currently, I'm looking for a full-time position as a software developer.
 
 - 🌍  I'm based in Indonesia
 - 🖥️  See my portfolio at [Portfolio](https://hanhub.vercel.app)
