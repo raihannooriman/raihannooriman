@@ -4,20 +4,14 @@
 
 ### About Me
 
-<details>
-    <summary>About Me</summary>
 After graduating with a degree in Mathematics, I decided to pursue my passion for programming. I enrolled in a coding bootcamp and learned full-stack web development. My favorite part of programming is the problem-solving aspect. I love the feeling of finally cracking a solution. I primarily use React, Next.js, Node.js, Go, Python, TypeScript, and MongoDB for my development projects, and I'm always eager to learn new technologies. Currently, I'm looking for a full-time position as a software developer.
 
 - 🌍  I'm based in Indonesia
 - 🖥️  See my portfolio at [Portfolio](https://hanhub.vercel.app)
 - ✉️  You can contact me at [noorimanr@gmail.com](mailto:noorimanr@gmail.com)
 
-</details>
-
 ### Skills
 
-<details>
-  <summary>My Skills</summary>
 <p align="left">
 <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
@@ -31,12 +25,9 @@ After graduating with a degree in Mathematics, I decided to pursue my passion fo
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
-</details>
 
 ### Socials
 
-<details>
-  <summary>My Socials</summary>
 <p align="left"> 
   <a href="https://www.linkedin.com/in/raihan-nooriman" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
   </a> 
@@ -44,7 +35,6 @@ After graduating with a degree in Mathematics, I decided to pursue my passion fo
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a> 
 </p>
-</details>
 
 ### Statistics
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/raihannooriman/langs?compact=True&theme=dark
